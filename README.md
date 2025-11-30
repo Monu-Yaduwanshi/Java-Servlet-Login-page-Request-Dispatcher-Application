@@ -67,9 +67,3 @@ MySQL Documentation
 Apache Tomcat Documentation
 Eclipse IDE
 Happy Coding! 💻✨
-
-### Key Points:
-- Replace `<repository-url>` with your actual repository link.
-- Update the GitHub profile link to your actual GitHub profile.
-  
-This format is visually appealing, provides all necessary details, and presents a clean, professional description for your project.
